@@ -1,0 +1,7 @@
+
+
+@media (max-width:600px) {
+  .items {
+    grid-template-columns: 1fr;
+  }
+}
